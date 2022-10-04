@@ -1,7 +1,7 @@
 import re
 from bot import WhatssAppBot
 
-bot = WhatssAppBot("James")
+bot = WhatssAppBot("gareng")
 bot.train_bot()
 bot.train_bot2()
 bot.start('[Name of the contact]')
